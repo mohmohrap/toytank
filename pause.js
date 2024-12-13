@@ -40,4 +40,4 @@ function onYouTubeIframeAPIReady() {
         });
         iframe.player = player; // Attach player instance to the iframe
     });
-                }
+}
